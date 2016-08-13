@@ -1,57 +1,65 @@
 /* Yet another CSS micro-framework */
 
 .freezing-light-blue {
-	background:03A9F4;
+	background-color:03A9F4;
 }
 
 .freezing-blue {
-	background:2196F3;
+	background-color:2196F3;
 }
 
 .freezing-indigo {
-	background:3F51B5;
+	background-color:3F51B5;
 }
 
 .freezing-deep-purple {
-	background:673AB7;
+	background-color:673AB7;
 }
 
 .freezing-purple {
-	background:9C27B0;
+	background-color:9C27B0;
 }
 
 .freezing-pink {
-	background:E91E63;
+	background-color:E91E63;
 }
 
 .freezing-red {
-	background:f44336;
+	background-color:f44336;
 }
 
 .freezing-green {
-	background:4CAF50;
+	background-color:4CAF50;
 }
 
 .freezing-lime {
-	background:CDDC39;
+	background-color:CDDC39;
 }
 
 .freezing-yellow {
-	background:FFEB3B;
+	background-color:FFEB3B;
 }
 
 .freezing-orange {
-	background:FF9800;
+	background-color:FF9800;
 }
 
 .freezing-brown {
-	background:795548;
+	background-color:795548;
 }
 
 .freezing-grey {
-	background:9E9E9E;
+	background-color:9E9E9E;
 }
 
 .freezing-black {
-	background:212121;
+	background-color:212121;
+}
+
+.freezing-button {
+	border-radius:8px; 
+	background-color:196F3;
+	max-width:300px; 
+	padding:15px 32px;
+	font-size:15px;	
 }
