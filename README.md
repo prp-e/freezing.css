@@ -18,4 +18,6 @@ Then, use classes in `freezing.css`, like this :
 </div>
 ```
 
-(Documentations will be available soon)
+## Etymology 
+
+The word "freezing" comes from one of my favorite songs by __Mayhem__, a norwegian band, called _Freezing Moon_. 
