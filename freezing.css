@@ -56,6 +56,10 @@
 	background-color:212121;
 }
 
+.freezing-white {
+	background-color:#FFFFF;
+}
+
 .freezing-button {
 	border-radius:8px; 
 	max-width:300px; 
