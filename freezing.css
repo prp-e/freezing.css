@@ -60,6 +60,62 @@
 	background-color:#ffffff;
 }
 
+.freezing-text-light-blue {
+	color:03A9F4;
+}
+
+.freezing-text-blue {
+	color:2196F3;
+}
+
+.freezing-text-indigo {
+	color:3F51B5;
+}
+
+.freezing-text-deep-purple {
+	color:673AB7;
+}
+
+.freezing-text-purple {
+	color:9C27B0;
+}
+
+.freezing-text-pink {
+	color:E91E63;
+}
+
+.freezing-text-red {
+	color:f44336;
+}
+
+.freezing-text-green {
+	color:4CAF50;
+}
+
+.freezing-text-lime {
+	color:CDDC39;
+}
+
+.freezing-text-yellow {
+	color:FFEB3B;
+}
+
+.freezing-text-orange {
+	color:FF9800;
+}
+
+.freezing-text-brown {
+	color:795548;
+}
+
+.freezing-text-grey {
+	color:9E9E9E;
+}
+
+.freezing-text-white {
+	color:#ffffff;
+}
+
 .freezing-button {
 	border-radius:8px; 
 	max-width:300px; 
