@@ -78,3 +78,20 @@
 .freezing-button-yellow {
 	background-color:FFEB3B;
 }
+
+.freezing-header {
+	height:100px;
+	max-width:1380px; 
+}
+
+.freezing-footer {
+	height:50px;
+	max-width:1380px;
+}
+
+.freezing-text-box {
+	height:300px;
+	max-width:300px;
+	border: 1px solid black;
+	padding: 10px 10px 10px 10px;
+}
