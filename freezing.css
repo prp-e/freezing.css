@@ -88,6 +88,9 @@
 	max-width:1380px;
 	border-radius:8px;
 	margin-bottom:10px; 
+	padding-top:20px;
+	padding-bottom:20px;
+	text-align:center;
 	display:fixed;
 }
 
@@ -96,6 +99,8 @@
 	max-width:1380px;
 	border-radius:8px;
 	margin-top:10px;
+	text-align:center;
+	display: fixed;
 }
 
 .freezing-text-box {
