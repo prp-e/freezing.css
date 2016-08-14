@@ -174,19 +174,6 @@
 	padding-right:5px;
 }
 
-.freezing-text-box-2 {
-	height:300px;
-	max-width:300px;
-	border: 1px solid white;
-	border-radius:4px;
-	margin-bottom:5px;
-	margin-right:5px;
-	margin-left:5px;
-	display:inline-flex;
-	padding-top:5px;
-	padding-left:5px;
-	padding-right:5px;
-}
 
 .freezing-content {
 	text-align:center;
@@ -197,11 +184,4 @@
 	max-width:1380px;
 }
 
-.freezing-content-2 {
-	text-align:center;
-	border-radius:4px;
-	border:2px solid white;
-	padding-top:10px;
-	padding-bottom:10px;
-	max-width:1380px;
-}
+
